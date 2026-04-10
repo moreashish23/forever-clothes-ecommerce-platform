@@ -231,7 +231,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 **Your Name**
 - GitHub: [moreashish23](https://github.com/moreashish23)
 - LinkedIn: [ashish-more-0651932a6](https://www.linkedin.com/in/ashish-more-0651932a6/)
-- Portfolio: [your-portfolio.com](https://ashish-more-portfolio.vercel.app/)
+- Portfolio: [ashish-more-portfolio](https://ashish-more-portfolio.vercel.app/)
 
 ---
 
