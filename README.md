@@ -24,7 +24,7 @@
 
 | Storefront | Product Page | Admin Panel |
 |---|---|---|
-| ![Home](https://raw.githubusercontent.com/moreashish23/repo/main/docs/images/home.png) | ![Product](https://raw.githubusercontent.com/moreashish23/repo/main/docs/images/product.png) | ![Admin](https://raw.githubusercontent.com/moreashish23/repo/main/docs/images/admin.png) |
+| ![Home](docs/images/home.png) | ![Product](docs/images/product.png) | ![Admin](docs/images/admin.png) |
 
 ---
 
