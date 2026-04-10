@@ -229,9 +229,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@your-username](https://github.com/your-username)
-- LinkedIn: [your-linkedin](https://linkedin.com/in/your-profile)
-- Portfolio: [your-portfolio.com](#)
+- GitHub: [moreashish23](https://github.com/moreashish23)
+- LinkedIn: [ashish-more-0651932a6](https://www.linkedin.com/in/ashish-more-0651932a6/)
+- Portfolio: [your-portfolio.com](https://ashish-more-portfolio.vercel.app/)
 
 ---
 
