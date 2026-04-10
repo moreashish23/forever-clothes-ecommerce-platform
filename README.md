@@ -24,7 +24,7 @@
 
 | Storefront | Product Page | Admin Panel |
 |---|---|---|
-| ![Home](https://placehold.co/300x180/1a1a1a/white?text=Home+Page) | ![Product](https://placehold.co/300x180/1a1a1a/white?text=Product+Page) | ![Admin](https://placehold.co/300x180/1a1a1a/white?text=Admin+Panel) |
+| ![Home](https://raw.githubusercontent.com/moreashish23/repo/main/docs/images/home.png) | ![Product](https://raw.githubusercontent.com/moreashish23/repo/main/docs/images/product.png) | ![Admin](https://raw.githubusercontent.com/moreashish23/repo/main/docs/images/admin.png) |
 
 ---
 
