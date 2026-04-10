@@ -41,9 +41,7 @@ app.use(cors({
 }));
 
 app.options('*', cors());
-console.log(process.env.CLOUDINARY_NAME)
-console.log(process.env.CLOUDINARY_APIKEY)
-console.log(process.env.CLOUDINARY_SECRET_KEY)
+
 
 // api endpoints
 app.use('/api/user',userRouter)
