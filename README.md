@@ -14,7 +14,7 @@
 
 **A production-ready, feature-rich e-commerce web application with a customer storefront, secure REST API backend, and a dedicated admin panel — all built from scratch.**
 
-[Live Demo](#) · [Report Bug](#) · [Request Feature](#)
+[Live Demo](https://forever-clothes-ecommerce-platform.vercel.app) 
 
 </div>
 
