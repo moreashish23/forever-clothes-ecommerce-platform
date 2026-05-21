@@ -228,7 +228,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 👤 Author
 
-**Your Name**
+**Ashish More**
 - GitHub: [moreashish23](https://github.com/moreashish23)
 - LinkedIn: [ashish-more-0651932a6](https://www.linkedin.com/in/ashish-more-0651932a6/)
 - Portfolio: [ashish-more-portfolio](https://ashish-more-portfolio.vercel.app/)
